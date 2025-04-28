@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Your Site Title</title>
+  <title>dumbed down/title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
-    <h1>Main Title</h1>
-    <p>Some short description or quote.</p>
+    <h1>dumbed down</h1>
+    <p>simplifying the complex, in my own words</p>
   </div>
 </body>
 </html>
